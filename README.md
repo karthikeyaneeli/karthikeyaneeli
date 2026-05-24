@@ -28,8 +28,6 @@ Current Focus:
 
 # ⚒️ Tech Arsenal
 
-# ⚒️ Tech Arsenal
-
 <div align="center">
 
 <table>
