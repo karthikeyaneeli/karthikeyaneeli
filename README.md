@@ -28,12 +28,69 @@ Current Focus:
 
 # ⚒️ Tech Arsenal
 
+# ⚒️ Tech Arsenal
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,javascript,react,mongodb,mysql,postgresql,git,github,vscode"/>
+<table>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java"/><br>Java
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp"/><br>C++
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python"/><br>Python
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html"/><br>HTML
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css"/><br>CSS
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript"/><br>JavaScript
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react"/><br>React
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb"/><br>MongoDB
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql"/><br>MySQL
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgresql"/><br>PostgreSQL
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git"/><br>Git
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github"/><br>GitHub
+</td>
+</tr>
+
+</table>
 
 </div>
-
 ---
 
 # 🚀 Featured Projects
